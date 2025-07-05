@@ -59,5 +59,5 @@ Built with Spring Boot (Backend) and React (Frontend), this cutting-edge crypto 
 
 ---
 
-## 📘 More Information  
-For detailed walkthrough, documentation, and implementation guide, [**Click Here**](https://your-detailed-docs-or-repo-link.com)
+## 🎥 Project Demo  
+Watch the complete project walkthrough video here: [Click to watch the demo](https://your-demo-video-link.com)
